@@ -1,3 +1,12 @@
+> [!CAUTION]
+> **ARCHIVED LEGACY WALLET GENERATOR — DO NOT USE WITH QWERTYCOIN V2.**
+> This pre-v2 generator is unsupported and is retained only for historical
+> reference. Do not enter a seed or private key, generate a production wallet,
+> or receive funds with this code. Use the current
+> [Web Wallet](https://wallet.qwertycoin.org/),
+> [desktop GUI](https://github.com/qwertycoin-org/qwertycoin-gui), or the wallet
+> shipped with [Qwertycoin Core](https://github.com/qwertycoin-org/qwertycoin).
+
 ![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-3.png)
 
 # Table of contents
